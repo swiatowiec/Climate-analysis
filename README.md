@@ -3,6 +3,9 @@
 ## Source
 https://en.tutiempo.net/climate/
 
+## Dataset
+The dataset contains data from 1.01.1991 to 31.12.1995 stored everyday.
+
 ## Purpose 
 The aim of the project is to analyze Madrid's climate data.
 
